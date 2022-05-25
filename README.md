@@ -1,1 +1,1 @@
-Examio React Native App
+Examio React Native App - Expo
